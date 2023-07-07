@@ -1,0 +1,295 @@
+@media (max-width: 425px) {
+
+    .container{
+        width: 100%;
+    }
+
+    .title-text{
+        width: 350px;
+        margin: 60px 0 0 -50px;
+    }
+
+    .title-mark{
+        position: absolute;
+        margin: 145px 0 0 75px;
+    }
+
+    .user-btn-link{
+        margin: 7px 0 0 200px;
+    }
+
+    .title-btn-wrapper{
+        margin: 0 0 0 -20px;
+    }
+
+    .slick-track{
+		  display: flex;
+		  flex-direction:row;
+	}
+
+    .slick-list{
+		  overflow: hidden;
+	}
+
+    .Slide-description{
+		display: none;
+	}
+
+	.Slide-text{
+		display: none;
+	}
+
+    .Slide-image{
+        width: 300px;
+        margin: 0 100px 0 100px;
+    }
+
+    .slider-wrapper{
+       margin: 100px 0 0 -100px;
+    }
+
+    .animals-list-title{
+        margin: 0 0 0 100px;
+    }
+
+    .green-circle-btn{
+        margin: 0 0 0 20px;
+    }
+
+    .slider{
+        margin: 90px 0 0 100px;
+    }
+    
+    .information-div{
+        width: 100px;
+        margin: 81px 0 0 10px;
+    }
+
+    .cabinet-div{
+        width: 100px;
+        display: block;
+       
+    }
+
+    .contacts-title{
+        padding: 81px 0 0 -20px;
+    }
+
+    .cabinet-div{
+        display: none;
+    }
+
+    .messangers-div{
+        display: none;
+    }
+
+    .footer-wrapper{
+        width: 100%;
+        margin: 200px 0 0 0;
+    }
+
+    .info-section{
+        margin: 0 0 0 -190px;
+    }
+
+    .second-title{
+        width: 300px;
+        line-height: 50px;
+        margin: 0 0 0 -100px;
+    }
+
+    .first-row-block{
+		margin-left: -80px;
+	}
+
+    .third-row-block{
+        margin-left: -140px;
+    }
+
+    .fifth-row-block{
+        margin-left: -70px;
+    }
+
+    .review-title{
+		width: 400px;
+		height: 40px;
+
+		font-weight: 300;
+		font-size: 40px;
+        line-height: 50px;
+
+		display: flex;
+		align-items: center;
+
+		color: #121212;
+        margin: 0 0 0 0;
+	}
+
+    .first-review{
+		width: 400px;
+		height: 220px;
+
+		margin: 60px 0 0 10px;
+	}
+
+    .second-review{
+		width: 400px;
+		height: 230px;
+
+		
+		margin: 60px 0 0 10px;
+	}
+
+    .user-info-wrapper{
+        margin: 30px 0 0 -30px;
+    }
+
+    .second-user-info-wrapper{
+        margin: 20px 0 0 -27px;
+    }
+
+    
+
+    .user1-message{
+        width: 190px;
+        margin: 35px 0 0 20px;
+    }
+
+    .user1-message-date{
+        margin: 16px 0 0 20px;
+    }
+
+    .user2-message{
+        width: 200px;
+		height: 70px;
+        margin: 35px 0 0 25px;
+    }
+
+    .rating_wrap{
+        margin: 0 0 0 -30px;
+    }
+
+    .title-btn-wrapper{
+        margin: 0 0 0 -300px;
+    }
+
+    .safari-image{
+        display: none;
+    }
+
+    .element-animation{
+        /* Скроем элемент в начальном состоянии */
+        opacity: none;
+        transform: none;
+    }
+
+    .element-animation.element-show {
+        opacity: none;
+        transition: none;
+        transform: none;
+    }
+
+  /*TICKETS*/
+
+    .ticket-div{
+        width: 400px;
+        height: 300px;
+		background:white;
+		border: 2px solid #008000;
+		border-radius:20px;
+		margin: 160px 0 0 0;
+    }
+
+    .children-title{
+        width: 360px;
+        margin: 60px 0 0 30px;
+    }
+
+    .ticket-line{
+        width: 250px;
+        margin: 20px 0 0 30px;
+    }
+   
+   .children-comment{
+    margin: 20px 0 0 30px;
+    }
+
+    .buyticket-btn{
+        margin: 50px 0 0 100px;
+    }
+
+    .school-children-btn{
+        margin: 20px 0 0 100px;
+    }
+
+    .site-bar{
+        width: 425px;
+    }
+
+    /*REGISTRATION*/
+
+    .reg-title{
+        margin: 110px 0 0 100px;
+    }
+
+    .reg-form{
+        margin: 60px 0 0 30px;
+    }
+
+    /*SIGN UP*/
+
+    .sign-form{
+        margin: 60px 0 0 20px;
+    }
+
+    .signUp-title{
+        width: 300px;
+        height: 100px;
+        margin: 137px 0 0 50px;
+    }
+
+    .sign-back-btn{
+        margin: 20px 0 0 10px;
+    }
+
+    /*ANIMALS INFO*/
+
+    .animal-image{
+        width: 425px;
+        height: 300px;
+        margin: -100px 0 0 100px;
+    }
+    
+    .animals-info-div{
+        width: 400px;
+    }
+
+    .description-wrapper{
+        width: 400px;
+        margin: 0 0 0 0px;
+    }
+
+    .animals-review-title{
+        margin: 20px 0 0 20px;
+    }
+
+    .animals-reviews{
+        margin: 80px 0 0 0px;
+    }
+
+    .animals-user1-message-date{
+        margin: 40px 0 0 0;
+    }
+
+    .animals-user-image{
+        margin: 40px 0 0 100px;
+    }
+
+    .yastreb-mal-title{
+        margin: 0 0 0 120px;
+    }
+
+    .yak-title{
+		margin: 0 0 0 120px;
+	}
+}

@@ -1,0 +1,169 @@
+@media (max-width: 320px){
+
+    .container{
+        width: 100%;
+    }
+
+    .jacket-image{
+        margin-left: -30px;
+    }
+
+    .user-btn-link{
+        margin: 7px 0 0 80px;
+    }
+
+    .first-row-block{
+		margin-left: -200px;
+	}
+
+    .title-text{
+        width: 300px;
+        height: 300px;
+        font-size: 40px;
+    }
+
+    .third-row-block{
+        width: 200px;
+        margin-left: -250px;
+    }
+
+    .fourth-row-block{
+        margin-left: -50px;
+    }
+
+    .fifth-row-block{
+        margin-left: -180px;
+    }
+
+    .sixth-row-block{
+        margin-left: -50px;
+    }
+
+    .title-btn-wrapper{
+        margin: 0 0 0 -380px;
+    }
+
+    .first-review{
+		width: 300px;
+		height: 230px;
+
+		margin: 60px 0 0 10px;
+	}
+
+    .second-review{
+        width: 300px;
+		height: 250px;
+
+		margin: 60px 0 0 10px;
+    }
+
+    .user1-message{
+        width: 150px;
+        margin: 40px 0 0 10px;
+    }
+
+    .user2-message{
+        width: 150px;
+    }
+
+    .user-info-wrapper{
+        margin: 30px 0 0 -40px;
+    }
+
+    .rating_wrap{
+        margin: 0 0 0 -45px;
+    }
+
+    .second-user-info-wrapper{
+        margin: 20px 0 0 -40px;
+    }
+
+    .contacts-title{
+        width: 150px;
+    }
+
+    .contacts-content{
+        width: 150px;
+        margin: 40px 0 0 0;
+        line-height: 20px;
+    }
+
+    /*TICKETS*/
+
+    .tickets-list-title{
+        width: 300px;
+        margin-left: -180px;
+        line-height: 70px;
+    }
+
+    .tickets-back-btn{
+        margin-top: -180px;
+    }
+
+    .site-bar{
+        width: 320px;
+    }
+
+    .children-title{
+        width: 250px;
+    }
+
+    .ticket-div{
+        margin-left: -5px;
+    }
+
+    /*REGISTRATION*/
+
+    .input-form{	
+		width: 270px;
+		height: 17px;
+	}
+
+    .sign-btn{
+        margin-left: 10px;
+    }
+
+    /*SIGN UP*/
+
+    .signUp-title{
+        margin-left: 10px;
+        line-height: 60px;
+    }
+
+    /*ANIMALS INFO*/
+
+    .animal-image{
+        width: 320px;
+        height: 240px;
+    }
+
+    .description{
+        width: 310px;
+    }
+
+    .animals-reviews{
+		width: 300px;
+		height: 230px;
+
+		margin: 60px 0 0 10px;
+	}
+
+    .animals-second-review{
+        width: 300px;
+		height: 250px;
+
+		margin: 0px 0 0 10px;
+    }
+
+    .animals-footer{
+        margin: 100px 0 0 0;
+    }
+
+    .review-btn{
+        margin: 400px 0 0 100px;
+    }
+
+    .animals-review-title{
+        margin: 20px 0 0 0;
+    }
+}

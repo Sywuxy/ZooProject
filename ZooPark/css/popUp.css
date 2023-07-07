@@ -1,0 +1,74 @@
+	.close-btn-wrapper{
+		width: 47px;
+		height: 47px;
+	}	
+
+	.close-btn{
+		width: 47px;
+		height: 47px;
+		background: #008000;
+		border-radius: 50%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin: 32px 0 0 1257px;
+	}
+
+	.popUp-title{
+		width: 561px;
+		height: 25px;
+		
+		font-weight: 300;
+		font-size: 40px;
+		line-height: 87.3%;
+		
+
+		display: flex;
+		align-items: center;
+		text-align: center;
+
+		color: #121212;
+		margin: 173px 0 0 200px;
+	}
+
+	.popUp-large-circle{
+		margin: 113px 0 0 135px ;
+	}
+
+	.popUp-big-circle{
+		width: 47px;
+		height: 47px;
+		margin: 47px 0 0 313px;
+	}
+
+	.popUp-comment-text{
+		width: auto;
+		height: 15px;
+		
+		font-weight: 300;
+		font-size: 18px;
+		line-height: 118%;
+		/* or 19px */
+
+		display: flex;
+		align-items: center;
+
+		color: #121212;
+		margin: 27px 0 0 92px;
+	}
+
+	.popUp-mark{
+		width: 146px;
+		height: 31px;
+	
+		font-weight: 400;
+		font-size: 40px;
+		line-height: 87.3%;
+		/* or 35px */
+
+		display: flex;
+		align-items: center;
+
+		color: #008000;
+		margin: 31px 0 0 53px;
+	}

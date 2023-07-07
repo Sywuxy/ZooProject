@@ -1,0 +1,144 @@
+	.tickets-list-title{
+		font-weight: 700;
+		font-size: 60px;
+		line-height: 87.3%;
+
+		display: flex;
+		align-items: center;
+
+		color: white;
+		margin-top: 90px;
+		margin-left: 500px;
+	}
+
+	.site-bar{
+		width: 100%;
+		height: 300px;
+		background: url(/img/header.jpg)no-repeat;
+		display: flex;
+	}
+
+	.tickets-back-btn{
+		position: absolute;
+		margin: 140px 0 0 700px;
+	}
+
+	.tickets-pager{
+		font-size: 3.4rem;
+		font-weight: 700;
+		line-height: 1.2;
+		color: #008000;
+	}
+
+	.tickets-list-wrapper{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.tickets-list-pager{
+		margin:200px 0 0 0 ;
+	}
+
+	.ticket-div{
+		width: 900px;
+		height: 240px;
+		background:white;
+		border: 2px solid #008000;
+		border-radius:20px;
+		margin: 160px 0 0 0;
+	}
+
+	.children-title{
+		font-weight: 500;
+		font-size: 30px;
+		line-height: 87.3%;
+
+		display: flex;
+		align-items: center;
+
+		color: #008000;
+		margin: 60px 0 0 100px;
+	}
+
+	.ticket-line{
+		width: 700px;
+		height: 2px;
+		background-color: #008000;
+		border: none;
+		margin: 20px 0 0 100px;
+	}
+
+
+	.children-comment{
+		font-weight: 300;
+		font-size: 20px;
+		line-height: 87.3%;
+
+		display: flex;
+		align-items: center;
+
+		color: black;
+		margin: 20px 0 0 100px;
+	}
+
+	.children-sale{
+		margin: 20px 0 0 100px;
+	}
+
+	.buyticket-btn{
+		width: 200px;
+		height: 50px;
+		background-color:#008000;
+		color: white;
+
+		font-weight: 400;
+		font-size: 20px;
+		font-family: 'Roboto';
+		font-style: italic;
+		line-height: 87.3%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		align-content: center;
+		text-decoration: none;
+		border-radius:20px;
+		border:1px solid yellowgreen;
+		margin: 0 0 0 600px;
+	}
+
+	.buyticket-btn:hover{
+		transition: 0.1s;
+		border:2px solid yellowgreen;
+	}
+
+	.school-children-price{
+		margin: 30px 0 0 100px;
+	}
+
+	.school-children-btn{
+		margin: -15px 0 0 600px;
+	}
+
+	.price-mark{
+		font-weight: 500;
+		font-size: 25px;
+		line-height: 87.3%;
+
+		display: flex;
+		align-items: center;
+
+		color: red;
+	}
+
+	.net-image{
+		width: 36px;
+		height: 36px;
+		margin: 100px 0 0 0;
+	}
+
+	.list-btn{
+		width: 36px;
+		height: 36px;
+	}

@@ -1,0 +1,180 @@
+	.back-btn-wrapper{
+		width: 43px;
+		height: 43px;
+	}
+
+	.back-btn{
+		width: 43px;
+		height: 43px;
+
+		background:#008000;
+		border-radius: 50%;
+		display: flex;
+		justify-content: center;
+		justify-items: center;
+		align-items: center;
+		align-content: center;
+		margin: 39px 0 0 134px;
+	}
+
+	.animals-review-title{
+		width: 522px;
+		height: 40px;
+
+		font-weight: 300;
+		font-size: 40px;
+		line-height: 87.3%;
+
+		display: flex;
+		align-items: center;
+
+		color: #121212;
+	}
+
+	.list-btn{
+		margin: 39px 0 0 0px;
+	}
+
+	.allAnimal-backBtn{
+		margin: 0 0 0 0;
+	}
+
+	.animal-title{
+		width: auto;
+		height: 24px;
+
+		font-weight: 300;
+		font-size: 40px;
+		line-height: 87.3%;
+
+		display: flex;
+		align-items: center;
+
+		color: #121212;
+	}
+
+	.animal-comment-title{
+		width: 179px;
+		height: 13px;
+
+		font-weight: 400;
+		font-size: 20px;
+		line-height: 23px;
+		display: flex;
+		align-items: center;
+
+		color: #7D7D7D;
+		margin: 10px 0 0 11px;
+	}
+
+	.title-wrapper{
+		margin: 60px 0 0 135px;
+	}
+
+	.animal-image{
+		height: 335px;
+		margin: 60px 0 0 135px;
+	}
+
+	.btn-div{
+		margin-top: 60px;
+		margin-left: 200px;
+	}
+
+	.yastrebBolsh-div{
+		margin-left: 170px;
+	}
+
+	.yak-div{
+		margin-left: 155px;
+	}
+
+	.fazan-eliota-div{
+		margin-left: 170px;
+	}
+
+	.ticket-btn{
+		width: 149.28px;
+		height: 37px;
+
+		background:#008000;
+		border: 0.5px solid #008000;
+		text-decoration: none;
+		color: white;
+		display: flex;
+		justify-items: center;
+		justify-content: center;
+		align-items: center;
+		align-content: center;
+		margin: 0px 0 0 16animal-title0px;
+	}
+
+	.bag-image{
+		width: 16px;
+		height: 18px;
+		margin: 0 0 0 6px;
+	}
+
+	.review-link{
+		width: 140px;
+		height: 13px;
+
+		font-weight: 400;
+		font-size: 18px;
+		line-height: 21px;
+		display: flex;
+		align-items: center;
+
+		color: #008000;
+		margin: 20px 0 0 70px;
+	}
+
+	.description-title{
+		width: 93px;
+		height: 13.81px;
+		
+		font-weight: 400;
+		font-size: 20px;
+		line-height: 23px;
+		display: flex;
+		align-items: center;
+
+		color: #121212;
+		margin: 80px 0 0 115px;
+	}
+
+	.description{
+		width: 400px;
+		height: auto;
+		
+
+		font-family: 'Roboto';
+		font-style: normal;
+		font-weight: 300;
+		font-size: 16px;
+		line-height: 19px;
+		display: flex;
+		align-items: center;
+
+		color: #7D7D7D;
+		margin: 20px 0 0 115px;
+	}
+
+	.reviews{
+		margin: 100px 0 0 135px;
+	}
+
+	.review-btn{
+		width: 148px;
+		height: 37px;
+
+		background: #008000;
+		border: 0.5px solid #008000;
+		color: white;
+		display: flex;
+		justify-items: center;
+		justify-content: center;
+		align-items: center;
+		text-decoration: none;
+		margin: 30px 0 0 135px;
+	}

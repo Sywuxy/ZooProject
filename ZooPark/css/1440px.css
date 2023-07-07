@@ -1,0 +1,94 @@
+@media (max-width : 1440px){
+	/*Index*/
+
+	.container{
+		width: 1240px;
+	}
+
+	.reg-btn{
+		margin: 0 0 0 30px;
+	}
+
+	.user-image{
+		margin: 0 0 0 -30px;
+	}
+
+	.header{
+		margin: 49px 0 0 0px;
+	}
+
+	.first-section{
+		margin: 58px 0 0 50px;
+	}
+
+	.second-section{
+		margin: 150px 0 0 0px;
+	}
+
+	.info-section{
+		margin:0px;
+	}
+
+	.title-btn-link{	
+		margin: 20px 0 0 500px;
+	}
+
+	.row-block{
+		margin: 94px 0 0 0;
+	}
+
+	.second-title{
+		margin: 0 0 0 0px;
+	}
+
+	.green-circle-btn{
+  		margin: 600px 0 0 26px;
+	}
+
+	.animal-list-grid{
+		margin: 50px 0 0 100px;
+	}
+
+	.allAnimals-link{
+		margin: 70px 0 0 650px;
+	}
+
+	.information-div{
+		margin: 81px 0 0 200px;
+	}
+
+	.animals-list-title{
+		margin: 0 0 0 50px;
+	}
+
+	/*allAnimals*/
+
+	.back-btn{
+		margin: 20px 0 0 -300px;
+	}
+
+	.allanimals-div{
+		margin: 60px 0 0 -20px;
+	}
+
+	.animals-back-btn{
+        position: absolute;
+        margin: 100px 0 0 400px;
+    }
+
+	/*Sign Up*/
+
+	.sign-back-btn{
+		margin: 39px 0 0 100px;
+	}
+
+	.sign-reg-btn{
+		margin: 25px 0 0 60px;
+	}
+
+	/*ANIMALS INFO*/
+
+	.animals-back-btn{
+		margin: 0 0 0 298px;
+	}
+}

@@ -1,0 +1,349 @@
+@media (max-width : 1024px){
+	/*Index*/
+
+	.container{
+		width:100%;
+		margin: auto;
+	}
+	
+	.reg-btn{
+		width: 100px;
+		height: 37px;
+
+		border: 0.5px solid #008000;
+		display: flex;
+		justify-content: center;
+
+		font-weight: 200;
+		font-size: 18px;
+		line-height: 16px;
+		display: flex;
+		align-items: center;
+		text-decoration: none;
+
+		color: #121212;
+		padding: 0 20px 0 20px;
+		margin: 0 0 0 20px;
+	}
+
+	.net-image{
+		width: 36px;
+		height: 36px;
+		margin: 0 0px 0 0px;
+	}
+
+	.user-image{
+		width: 20px;
+		height: 20px;
+	}
+
+	.user-btn-link{
+		margin: 7px 0px 0 800px;
+	}
+
+	.first-section{
+		display: flex;
+		flex-direction: column;
+		margin: 58px 0 0 50px;
+	}
+
+	.jacket-image{
+		margin: 20px 0 0 590px;
+		padding: 0px 0 0 0;
+	}
+
+	.safari-image{
+		margin: 50px 0 0 200px;
+	}
+
+	.second-section{
+		margin: 150px 0 0 0px;
+	}
+
+	.info-section{
+		margin:0 0 0 0;
+	}
+
+	.title-btn-link{	
+		margin: 70px 0 0 450px;
+	}
+
+	.comment-text{
+		width: 230px;
+		height: 49px;	
+		font-size: 18px;
+		
+	}
+
+	.Column1024px{
+		display: flex;
+		flex-direction: column;
+	}
+
+	.second-title{
+		width: 435px;
+		padding: 0 0 0 100px;
+
+	}
+
+	.block-text{
+		font-weight: 300;
+		font-size: 18px;
+		line-height: 118%;
+
+		display: flex;
+		align-items: center;
+
+		color: #7D7D7D;
+	}
+
+	.Slide-description{
+		margin: 20px 0 0 90px;
+	}
+
+	.Slide-text{
+		margin: 0 0 0 100px;
+	}
+
+	.first-block-text{
+		width: 175px;
+		height: 26px;
+		margin: 10px 0 0 500px;
+	}
+
+	.first-small-circle{
+		margin: -10px 0 0 640px;
+	}
+
+	.second-block-text{
+		width: 175px;
+		margin: 10px 0 0 250px;
+	}
+
+	.third-block-text{
+		width: 250px;
+		margin: 10px 0 0 500px;
+	}
+
+	.first-big-circle{
+		margin: -10px 0 0 680px;
+	}
+
+	.fourth-block-text{
+		width: 184px;
+		margin: 10px 0 0 250px;
+	}
+
+	.fifth-block-text{
+		width: 175px;
+		margin: 10px 0 0 500px;
+	}
+
+	.sixth-block-text{
+		width: 184px;
+		margin: 10px 0 0 250px;
+	}
+
+	.second-small-circle{
+		margin: -40px 0 0 435px;
+	}
+
+	.row-block{
+		margin: 94px 0 0 0;
+	}
+
+	.second-title{
+		margin: 0 0 0 0px;
+	}
+
+	.green-circle-btn{
+  		margin: 600px 0 0 26px;
+	}
+
+	.animals-list-div{
+		margin: 128px 0 0 -50px;
+	}
+
+	.information-div{
+		margin: 81px 0 0 200px;
+	}
+
+	.animals-list-title{
+		margin: 0 0 0 100px;
+	}
+
+	.animal-block{
+		margin: 50px 0 0 0;
+	}
+
+	.yastreb-bolshoy-div{
+		margin: 50px 0 0 0;
+	}
+
+	.animal-list-grid{
+		grid-template-columns: 450px 450px;
+		margin-left:150px;
+	}
+
+	.allAnimals-link{
+		margin: 90px 0 0 500px;
+	}
+
+	.review-title{
+		margin: 0 0 0 50px;
+	}
+
+	.first-review{
+		margin: 100px 0 0 80px;
+	}
+
+	.user-info-wrapper{
+		margin: 20px 0 0 0;
+	}
+
+	.second-user-info-wrapper{
+		margin: 35px 0 0 0;
+	}
+
+	.reviews-btn{
+		visibility: hidden;
+	}
+
+	.footer-wrapper{
+		width: 100%;
+		margin: -70px 0 0 0;
+	}
+
+	.green-circle-btn{
+		margin: 0 0 0 70px;
+	}
+
+	.information-div{
+		margin: 81px 0 0 70px;
+	}
+
+	/*allAnimals*/
+
+	.site-bar{
+		width: 100%;
+		height: 200px;
+	}
+
+	.back-btn{
+		margin: 20px 0 0 -200px;
+	}
+
+	.allanimals-div{
+		margin: 60px 0 0 -40px;
+	}
+
+	.allAnimals-footer{
+		margin: 100px 0 0 0;
+	}
+
+	/*Sign Up*/
+
+	.sign-back-btn{
+		margin: 39px 0 0 100px;
+	}
+
+	.sign-reg-btn{
+		margin: 25px 0 0 60px;
+	}
+
+	/*ANIMALS_PAGES*/
+
+	.animals-user-link{
+		margin: 46px 0 0 950px;
+	}
+
+	.animals-back-btn{
+		margin: 0 0 0 201px;
+	}
+
+	.animals-info-div{
+		margin:0 0 0 -130px;
+	}
+
+	.animals-title{
+		margin: 0 0 0 -100px;
+	}
+
+	.yastreb-mal-title{
+		margin: 55px 0 0 40px;
+	}
+
+	.btn-div{
+		margin-top: 60px;
+		margin-left: 330px;
+	}
+
+	.animals-reviews{
+		margin: 150px 0 0 -135px;
+	}
+
+	.review-title{
+		margin: 0 0 0 200px;
+	}
+
+	.animals-first-review{
+		margin: 70px 0 0 200px;
+	}
+
+	.animals-second-review{
+		margin: 70px 0 0 200px;
+	}
+
+	.animals-footer{
+		margin: 100px 0 0 0;
+	}
+
+	.user1-name{
+		margin: 17px 0 0 50px;
+	}
+
+	.description-wrapper{
+		margin: 0 0 0 -100px;
+	}
+
+	/*TICKETS_PAGE*/
+
+	.tickets-footer{
+		margin: 150px 0 0 0;
+	}
+
+	/*REGISTRATION_PAGE*/
+
+	.reg-footer{
+		margin: 150px 0 0;
+	}
+
+	/*SIGN_UP_PAGE*/
+
+	.sign-footer{
+		margin: 150px 0 0;
+	}
+
+	/*ANIMALS INFO*/
+
+	.animals-title{
+		display: block;
+		margin: 110px 0 0 -100px;
+	}
+
+	.animals-back-btn{
+		margin: 20px 0 0 220px;
+	}
+	
+	.animals-net{
+		margin: 0 0 0 20px;
+	}
+
+	.yastreb-mal-title{
+        margin: 0 0 0 120px;
+    }
+
+	.yak-title{
+		margin: 0 0 0 120px;
+	}
+}
